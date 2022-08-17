@@ -12,7 +12,7 @@ import androidx.annotation.Nullable;
  * @date 8/17/22 5:01 PM
  * @desc
  */
-class MainActivity extends Activity {
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
